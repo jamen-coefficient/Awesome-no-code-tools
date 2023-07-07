@@ -23,7 +23,7 @@ Originally published as
 * [Wayscript](https://wayscript.com) - A rapid scripting platform with drag-n-drop interface for Python and Javascript
 * [Tray](https://tray.io/solutions/sales) - Advanced integration platform for connecting up the tools you use every day
 * [Automate Io](https://automate.io/) - Put your business on autopilot. Connect 100+ business apps.
-* [Blockspring](https://www.blockspring.com/) - Supercharge your list building, reporting, and landing pages.
+* [coefficient.io](https://coefficient.io/) - Automatically import your data into Google Sheets.
 * [Oplim](https://oplim.com/) - Custom tasks on your website with zero code
 * [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore
 * [Outfunnel](https://outfunnel.com/) - Keep customer data in sync across sales and marketing tools
